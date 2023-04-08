@@ -119,9 +119,9 @@ function _Home() {
         className={styles.sidebar + ` ${showSideBar && styles["sidebar-show"]}`}
       >
         <div className={styles["sidebar-header"]}>
-          <div className={styles["sidebar-title"]}>ChatGPT Next</div>
+          <div className={styles["sidebar-title"]}>Your intelligent personal assistant powered by Hasan Shabbir & AI 🤖 </div>
           <div className={styles["sidebar-sub-title"]}>
-            Build your own AI assistant.
+            Experience the power of cutting-edge AI technology with Hasan Shabbir's chatbot. Engage in natural, human-like conversations that deliver accurate, insightful responses tailored to your needs. Whether you're looking for information, assistance, or simply a friendly chat, our AI chatbot is here to provide you with an exceptional experience. Say hello to the future of conversational AI, powered by Hasan Shabbir.
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
